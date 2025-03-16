@@ -1,0 +1,2 @@
+# Demand-forecasting-using-Random-Forest-Regressor-and-Holt-Winters
+To tackle inventory management challenges, this study applies Holt-Winters and Random Forest for demand forecasting. Holt-Winters, a time series method, captures trends and seasonality using exponentially weighted smoothing. Random Forest, a machine learning algorithm, leverages multiple decision trees to model non-linear relationships.
