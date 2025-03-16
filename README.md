@@ -19,6 +19,7 @@ Optimized smoothing parameters:
 - Beta (β): 0.0001
 - Gamma (γ): 0.0001
 **Random Forest Regressor**: Utilizes lag variables (1-month, 2-month, and 3-month sales) and dummy variables for months.
+  
 **Evaluation Metrics**: To ensure an objective assessment, the study employs:
 - Mean Absolute Percentage Error (MAPE) – Measures percentage deviation from actual values.
 - Root Mean Squared Error (RMSE) – Measures the absolute error in original units.
